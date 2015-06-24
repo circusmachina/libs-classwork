@@ -49,7 +49,7 @@ various links used in the text above.)_
 
 [Author]: http://www.circusmachina.com/gladius/Profiles/Michael
 [Home page]: http://docs.circusmachina.com/libs/classwork/
-[Source]: https://github.com/circusmachina/libs/classwork
+[Source]: https://github.com/circusmachina/libs-classwork
 [Source documentation]: http://docs.circusmachina.com/libs/classwork/
 [Bug tracker]: http://monkeywrench.circusmachina.com
 
