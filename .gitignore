@@ -1,0 +1,6 @@
+*~
+backup/*
+doc/*
+!doc/introduction.md
+!doc/*.pds
+src/backup/*
